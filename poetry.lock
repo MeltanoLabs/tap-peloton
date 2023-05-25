@@ -408,7 +408,7 @@ files = [
 
 [[package]]
 name = "joblib"
-version = "1.1.0"
+version = "1.1.1"
 description = "Lightweight pipelining with Python functions"
 category = "main"
 optional = false
