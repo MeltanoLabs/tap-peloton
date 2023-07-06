@@ -16,7 +16,7 @@ singer-sdk = "^0.3.11"
 pylotoncycle = "^0.5.2"
 
 [tool.poetry.dev-dependencies]
-pytest = "^6.2.5"
+pytest = "^7.0.1"
 tox = "^3.24.4"
 flake8 = "^5.0.4"
 black = "^22.8"
