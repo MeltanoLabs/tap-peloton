@@ -732,13 +732,13 @@ test = ["pytest (>=4.0.1,<5.0.0)", "pytest-cov (>=2.6.0,<3.0.0)", "pytest-runner
 
 [[package]]
 name = "pylotoncycle"
-version = "0.5.2"
+version = "0.6.0"
 description = "Module to access your Peloton workout data"
 optional = false
 python-versions = "*"
 files = [
-    {file = "pylotoncycle-0.5.2-py3-none-any.whl", hash = "sha256:4080711ec8f539697bed14f69fb1283a8293baba9fd25c904d84f2f86dce30ce"},
-    {file = "pylotoncycle-0.5.2.tar.gz", hash = "sha256:7771a9310253180356d6eceabf44131d3c743a03d985ab5f081a250432f3ea74"},
+    {file = "pylotoncycle-0.6.0-py3-none-any.whl", hash = "sha256:dc87db16c586772f58af85ced895d1ba1603919b3da0c8b8649e0139ddb56612"},
+    {file = "pylotoncycle-0.6.0.tar.gz", hash = "sha256:340a0106b1ca6443da9278f870a30020e3f97a6968a116b0b8972fe344495727"},
 ]
 
 [package.dependencies]
@@ -1132,4 +1132,4 @@ testing = ["func-timeout", "jaraco.itertools", "pytest (>=4.6)", "pytest-black (
 [metadata]
 lock-version = "2.0"
 python-versions = "<3.10,>=3.6.2"
-content-hash = "2e43031021cc9d21e85373fb08b6c42098e6f22297a30b3663f036cf236871b5"
+content-hash = "197ce344ee5680e8a95617b324e848e63b4d9fe2e2a9d2993cf6ef3e8b012209"
