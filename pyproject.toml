@@ -13,7 +13,7 @@ license = "BSD-2-Clause"
 python = "<3.10,>=3.6.2"
 requests = "^2.25.1"
 singer-sdk = "^0.3.11"
-pylotoncycle = "^0.5.2"
+pylotoncycle = "^0.6.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.0.1"
