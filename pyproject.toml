@@ -12,7 +12,7 @@ license = "BSD-2-Clause"
 [tool.poetry.dependencies]
 python = "<3.10,>=3.6.2"
 requests = "^2.27.1"
-singer-sdk = "^0.3.11"
+singer-sdk = "^0.4.2"
 pylotoncycle = "^0.6.0"
 
 [tool.poetry.dev-dependencies]
